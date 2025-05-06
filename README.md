@@ -1,4 +1,7 @@
-# Official model implementation of [FenGePad--A Tangible Multi-Prompt Interactive Framework for Deep Dune Segmentation]()
+# FenGePad-Model
+
+Official model implementation of [FenGePad--A Tangible Multi-Prompt Interactive Framework for Deep Dune Segmentation]()
+
 ## Overview
 
 **FenGePad** is a tablet-based interactive segmentation tool that enables users to segment *unseen* structures in dune images using clicks, polylines and scribbles. This project details segmentation model of FenGePad.
